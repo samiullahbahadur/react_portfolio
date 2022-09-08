@@ -1,0 +1,84 @@
+.about-me-section {
+  padding: 100px 10px;
+  background: rgb(25, 25, 25);
+}
+
+.about-me-picture {
+  height: 680px;
+  background: url(../images/about/bahadur.JPG);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgb(16, 16, 16);
+}
+
+.sami-about-pic {
+  height: 100%;
+}
+
+.about-me-picture-overlay {
+  background-color: rgb(0, 0, 0, 0.5);
+  height: 100%;
+}
+
+.-about-pic,
+.about-me-picture-overlay,
+.about-me-picture {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.about-me-title {
+  color: white;
+  font-size: 36px;
+  margin: 12px 0;
+}
+
+.about-me-par {
+  color: rgba(198, 201, 216, 0.75);
+}
+
+button#a0 {
+  width: 120px;
+}
+
+button#a1 {
+  width: 120px;
+}
+
+button#a2 {
+  width: 200px;
+}
+
+@media screen and (max-width: 530px) {
+  .about-me-picture {
+    background-position: center;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .about-me-section {
+    display: flex;
+  }
+
+  .sami-about-pic,
+  .about-me-picture-overlay {
+    height: 100%;
+    width: 100%;
+  }
+
+  .about-me-details {
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .about-me-title {
+    font-size: 60px;
+  }
+
+  .about-me-par {
+    font-size: 18px;
+  }
+}
