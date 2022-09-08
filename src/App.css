@@ -1,38 +1,50 @@
-.App {
-  text-align: center;
+@import url("https://fonts.googleapis.com/css2?family=lato:wght@100;300;400;700;900&display=swap");
+@import url("https::/fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600 & display=swap");
+
+/* ==== base style ====*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background: #0e1b31;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+html {
+  scroll-behavior: smooth;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #fff;
+  font-family: "Lato", sans-serif;
+  margin: 0;
 }
-
-.App-link {
-  color: #61dafb;
+h1,
+h2 {
+  font-size: 2rem;
+  font-weight: 500;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+p {
+  color: #fff;
+  opacity: 75%;
+  font-size: 1rem;
+  font-family: "Rubik", sans-serif;
+}
+ul {
+  list-style: none;
+  margin: 0;
+}
+a {
+  color: unset;
+  font-family: "Lato", sans-serif;
+}
+a:hover {
+  color: unset;
 }
