@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Samiullah Bahadur Portfolio
 
-## Available Scripts
+> Portfolio project about Samiullah Bahadur
 
-In the project directory, you can run:
+> In this Project, I used HTML and CSS (Media, Transition, flexbox, Grid and figma template)
 
-### `npm start`
+You can download my project copy this link(git@github.com:samiullahbahadur/Portfolio.git) and git clone paste the link in the terminal
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Built With
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- HTML
+- CSS
+- React
 
-### `npm test`
+## Live Demo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [Bahadur-Portfolio](https://samiullahbahadur.github.io/Portfolio/).
 
-### `npm run build`
+👤 **Samiullah Bahadur**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- GitHub: [@samiullahbahadur](https://github.com/samiullahbahadur)
+- Twitter: [@samiullahbahadur](https://twitter.com/@Samiull88496331)
+- LinkedIn: [@samiullahbahadur](https://www.linkedin.com/in/samiullah-bahadur/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Show your support
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Give a ⭐️ if you like this project!
 
-### `npm run eject`
+## 📝 License
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This project is [MIT](LICENSE.md) licensed.
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Samiullah Bahadur Portfolio
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+> Portfolio project about Samiullah Bahadur
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+> ![screenshot](./image/screenshot.PNG)
 
-## Learn More
+> In this Project, I used HTML and CSS (Media, Transition, flexbox, Grid and figma template)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can download my project copy this link(git@github.com:samiullahbahadur/Portfolio.git) and git clone paste the link in the terminal
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Built With
 
-### Code Splitting
+- HTML
+- CSS
+- Javascript
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Live Demo
 
-### Analyzing the Bundle Size
+- [Bahadur-Portfolio](https://samiullahbahadur.github.io/Portfolio/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+👤 **Samiullah Bahadur**
 
-### Making a Progressive Web App
+- GitHub: [@samiullahbahadur](https://github.com/samiullahbahadur)
+- Twitter: [@samiullahbahadur](https://twitter.com/@Samiull88496331)
+- LinkedIn: [@samiullahbahadur](https://linkedin.com/in/samiullah-bahadur-a1b053149/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Show your support
 
-### Advanced Configuration
+Give a ⭐️ if you like this project!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📝 License
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is [MIT](LICENSE.md) licensed.
