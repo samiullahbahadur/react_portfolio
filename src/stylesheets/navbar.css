@@ -109,7 +109,7 @@
 @media screen and (max-width: 900px) {
   .mobile-side-nav,
   .mobile-side-nav-hidden {
-    width: 100%;
+    width: 60%;
   }
 }
 
