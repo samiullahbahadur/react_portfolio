@@ -2,11 +2,14 @@
 
 # Samiullah Bahadur Portfolio
 
+![screenshot](./images/screenshot/home.PNG)
+![screenshot](./images/screenshot/about.PNG)
+
 > Portfolio project about Samiullah Bahadur
 
-> In this Project, I used HTML and CSS (Media, Transition, flexbox, Grid and figma template)
+> In this Project, I used HTML, CSS and React (Media, Transition, flexbox and grid)
 
-You can download my project copy this link(git@github.com:samiullahbahadur/Portfolio.git) and git clone paste the link in the terminal
+#screenshot
 
 ## Built With
 
