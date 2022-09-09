@@ -34,28 +34,27 @@
 }
 
 button#a0 {
-  width: 120px;
+  width: 110px;
 }
 
 button#a1 {
-  width: 120px;
+  width: 150px;
 }
 
 button#a2 {
-  width: 200px;
+  width: 185px;
 }
 
 @media screen and (max-width: 530px) {
   .about-me-picture {
     background-position: center;
-    height: 200px;
-    width: 200px;
   }
 }
 
 @media screen and (min-width: 768px) {
   .about-me-section {
     display: flex;
+    gap: 2px;
   }
   .about-me-picture {
     height: 590px;

@@ -11,7 +11,7 @@
   outline: none;
   border: none;
   color: white;
-  margin: 7px;
+  margin: 7px 0px;
 }
 
 .about-navlink-border {
@@ -50,7 +50,7 @@
 
 .about-me-skills-title {
   color: rgb(155, 157, 164);
-  font-weight: 700;
+  font-weight: 500;
 }
 
 .about-me-skills-extra-title {

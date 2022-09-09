@@ -38,7 +38,7 @@
 #project-container2,
 #project-container3,
 #project-container4 {
-  margin: 12px;
+  margin: 12px 5px;
   background-size: 105%;
   background-position: center;
   background-repeat: no-repeat;
@@ -113,16 +113,14 @@
   cursor: pointer;
 }
 
-.project-button,
 .project-button:hover {
   transition: all 0.3s ease-in-out;
 }
 
 .project-button:hover {
   background: rgb(235, 69, 76);
-  border: 2px solid rgb(235, 69, 76);
 }
 
 .project-card:hover .project-buttons-container {
-  bottom: 50px;
+  bottom: 150px;
 }
