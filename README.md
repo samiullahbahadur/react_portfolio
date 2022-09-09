@@ -2,9 +2,6 @@
 
 # Samiullah Bahadur Portfolio
 
-![screenshot](./images/screenshot/home.PNG)
-![screenshot](./images/screenshot/about.PNG)
-
 > Portfolio project about Samiullah Bahadur
 
 > In this Project, I used HTML, CSS and React (Media, Transition, flexbox and grid)
