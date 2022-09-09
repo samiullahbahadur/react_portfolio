@@ -17,6 +17,7 @@
 .service-card-description {
   margin-top: 12px;
   width: 300px;
+  align-items: center;
 }
 
 @media screen and (min-width: 786px) {
