@@ -1,8 +1,10 @@
-import React from "react";
-import "../../stylesheets/projectcard.css";
-import PropTypes from "prop-types";
+import React from 'react';
+import '../../stylesheets/projectcard.css';
+import PropTypes from 'prop-types';
 
-const ProjectCard = ({ status, title, projectLink, liveLink }) => (
+const ProjectCard = ({
+  status, title, projectLink, liveLink,
+}) => (
   <div className="project-card">
     <p className="small-heading">{status}</p>
     <h3 className="large-heading">{title}</h3>

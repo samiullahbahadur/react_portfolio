@@ -1,11 +1,11 @@
-import React, { useState } from "react";
-import { HashLink as NavLink } from "react-router-hash-link";
-import "../../stylesheets/navbar.css";
-import { links } from "./NavbarData";
-import { ReactComponent as Close } from "../../images/icons/close.svg";
-import { ReactComponent as Menu } from "../../images/icons/menu.svg";
+import React, { useState } from 'react';
+import { HashLink as NavLink } from 'react-router-hash-link';
+import '../../stylesheets/navbar.css';
+import { links } from './NavbarData';
+import { ReactComponent as Close } from '../../images/icons/close.svg';
+import { ReactComponent as Menu } from '../../images/icons/menu.svg';
 
-import { socialLinks } from "./SocialLinks";
+import { socialLinks } from './SocialLinks';
 
 const Navbar = () => {
   const [menuStatus, setMenuStatus] = useState(false);
@@ -19,16 +19,16 @@ const Navbar = () => {
     }
   };
 
-  window.addEventListener("scroll", handleNavbar);
+  window.addEventListener('scroll', handleNavbar);
 
   const handleMenu = () => setMenuStatus(!menuStatus);
   return (
     <>
-      <nav className={navbar ? "navbar active" : "navbar"}>
+      <nav className={navbar ? 'navbar active' : 'navbar'}>
         <div className="logo-navlink-container">
           <div
             className={
-              menuStatus ? "mobile-side-nav" : "mobile-side-nav-hidden"
+              menuStatus ? 'mobile-side-nav' : 'mobile-side-nav-hidden'
             }
           >
             <ul>
@@ -40,20 +40,18 @@ const Navbar = () => {
               </li>
               <li>
                 <ul className="nav-links">
-                  {links.map((link) =>
-                    link.id > 0 ? (
-                      <NavLink
-                        onClick={handleMenu}
-                        className="nav-single-link"
-                        key={`navlink-${link.id}`}
-                        to={link.to}
-                      >
-                        {link.title}
-                      </NavLink>
-                    ) : (
-                      ""
-                    )
-                  )}
+                  {links.map((link) => (link.id > 0 ? (
+                    <NavLink
+                      onClick={handleMenu}
+                      className="nav-single-link"
+                      key={`navlink-${link.id}`}
+                      to={link.to}
+                    >
+                      {link.title}
+                    </NavLink>
+                  ) : (
+                    ''
+                  )))}
                   <li>
                     <ul
                       id="navbar-social-icons-container"

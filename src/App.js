@@ -1,10 +1,10 @@
-import Navbar from "./component/header/Navbar";
-import Home from "./component/Home";
-import About from "./component/about/About";
-import Services from "./component/service/Services";
-import Portfolio from "./component/project/Portfolio";
+import Navbar from './component/header/Navbar';
+import Home from './component/Home';
+import About from './component/about/About';
+import Services from './component/service/Services';
+import Portfolio from './component/project/Portfolio';
 
-import Contact from "./component/Contact";
+import Contact from './component/Contact';
 
 const App = () => (
   <>

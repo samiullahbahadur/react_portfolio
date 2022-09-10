@@ -1,6 +1,6 @@
-import React from "react";
-import { socialLinks } from "./header/SocialLinks";
-import "../stylesheets/contact.css";
+import React from 'react';
+import { socialLinks } from './header/SocialLinks';
+import '../stylesheets/contact.css';
 
 const today = new Date();
 const date = today.getFullYear();
@@ -67,8 +67,14 @@ const Contact = () => (
         ))}
       </ul>
       <p className="footer-license-description">
-        Copyright &copy; {date} Samiullah Bahadur
-        <br /> All Rights Reserved.
+        Copyright &copy;
+        {' '}
+        {date}
+        {' '}
+        Samiullah Bahadur
+        <br />
+        {' '}
+        All Rights Reserved.
       </p>
     </div>
   </div>

@@ -1,6 +1,6 @@
-import React from "react";
-import "../../stylesheets/servicecard.css";
-import PropTypes from "prop-types";
+import React from 'react';
+import '../../stylesheets/servicecard.css';
+import PropTypes from 'prop-types';
 
 const ServiceCard = ({ card }) => (
   <div className="service-card">

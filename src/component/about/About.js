@@ -1,6 +1,6 @@
-import React from "react";
-import "../../stylesheets/about.css";
-import AboutDetails from "./AboutDetails";
+import React from 'react';
+import '../../stylesheets/about.css';
+import AboutDetails from './AboutDetails';
 
 const About = () => (
   <div className="about-me-section">

@@ -1,12 +1,12 @@
-import React from "react";
-import PageTitle from "../PageTitle";
-import "../../stylesheets/portfolio.css";
-import ProjectCard from "./ProjectCard";
-import { projects } from "./ProjectData";
+import React from 'react';
+import PageTitle from '../PageTitle';
+import '../../stylesheets/portfolio.css';
+import ProjectCard from './ProjectCard';
+import { projects } from './ProjectData';
 
 const Portfolio = () => {
-  const title = "My Latest Project";
-  const desc = "Checkout my latest JavaScript, React and Rails projects";
+  const title = 'My Latest Project';
+  const desc = 'Checkout my latest JavaScript, React and Rails projects';
 
   return (
     <div className="projects-page">

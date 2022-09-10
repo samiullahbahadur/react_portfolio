@@ -1,6 +1,6 @@
-import React from "react";
-import "../stylesheets/pagetitle.css";
-import PropTypes from "prop-types";
+import React from 'react';
+import '../stylesheets/pagetitle.css';
+import PropTypes from 'prop-types';
 
 const PageTitle = ({ title, desc }) => (
   <div>

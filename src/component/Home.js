@@ -1,5 +1,5 @@
-import React from "react";
-import "../stylesheets/homepage.css";
+import React from 'react';
+import '../stylesheets/homepage.css';
 
 const Home = () => (
   <div className="homepage-component">

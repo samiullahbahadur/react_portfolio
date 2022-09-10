@@ -1,6 +1,6 @@
-import React, { useState } from "react";
-import "../../stylesheets/aboutdetails.css";
-import { aboutDetails, aboutLinks } from "../about/AboutData";
+import React, { useState } from 'react';
+import '../../stylesheets/aboutdetails.css';
+import { aboutDetails, aboutLinks } from './AboutData';
 
 const AboutDetails = () => {
   const [view, setView] = useState(0);
@@ -8,8 +8,7 @@ const AboutDetails = () => {
     setView(index);
   };
 
-  const handleActiveLink = (index) =>
-    index === view ? "about-details-navlink active" : "about-details-navlink";
+  const handleActiveLink = (index) => (index === view ? 'about-details-navlink active' : 'about-details-navlink');
   return (
     <>
       <ul className="about-details-navbar">

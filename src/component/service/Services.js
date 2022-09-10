@@ -1,13 +1,12 @@
-import React from "react";
-import "../../stylesheets/services.css";
-import ServiceCard from "./ServiceCard";
-import { services } from "./ServiceData";
-import PageTitle from "../PageTitle";
+import React from 'react';
+import '../../stylesheets/services.css';
+import ServiceCard from './ServiceCard';
+import { services } from './ServiceData';
+import PageTitle from '../PageTitle';
 
 const Services = () => {
-  const title = "My Awesome Services";
-  const desc =
-    "There are some good services, i'm providing. You would love to utilize each of them";
+  const title = 'My Awesome Services';
+  const desc = "There are some good services, i'm providing. You would love to utilize each of them";
   return (
     <div className="services-page">
       <PageTitle title={title} desc={desc} />
