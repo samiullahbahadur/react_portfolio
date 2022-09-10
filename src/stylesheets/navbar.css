@@ -6,13 +6,30 @@
   align-items: center;
   height: 70px;
   width: 100%;
+  z-index: 100;
+}
+
+.navbar.active {
   position: fixed;
+  top: 0;
+  background: rgb(25, 25, 25);
+  z-index: 100;
+}
+
+.navbar,
+.navbar.active {
+  transition: background 300ms ease-in-out;
+}
+
+.logo-navlink-container {
+  display: flex;
+  align-items: center;
 }
 
 .mobile-side-nav,
 .mobile-side-nav-hidden {
   position: fixed;
-  width: 10%;
+  width: 50%;
   height: 100vh;
   background-color: rgb(16, 16, 16);
   display: flex;
@@ -120,9 +137,7 @@
 
   .navbar-social-icons-container {
     display: flex;
-    right: 50px;
-    bottom: 12px;
-    align-items: center;
+    right: 15px;
   }
 
   .menu-close-icon-container,
