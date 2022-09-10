@@ -58,7 +58,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   align-items: center;
-  padding: 70px 40px;
+  padding: 50px 40px;
   margin: 0 -40px;
   background: rgb(16, 16, 16);
 }
@@ -77,7 +77,7 @@
 }
 
 .footer-license-description {
-  font-size: 20px;
+  font-size: 14px;
 }
 
 .footer-icon,
@@ -89,7 +89,6 @@
 .footer-social-links-container,
 .footer-license-description {
   justify-self: center;
-  width: 320px;
 }
 
 @media screen and (max-width: 694px) {
@@ -108,15 +107,12 @@
   }
 
   .footer-license-description {
-    width: 600px;
-    padding: 0 120px;
+    width: 100%;
   }
 }
 
 @media screen and (min-width: 995px) {
   .footer-icon {
     justify-self: center;
-    width: 600px;
-    padding: 0 120px;
   }
 }
