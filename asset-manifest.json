@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react_portfolio/static/css/main.d086b027.css",
+    "main.js": "/react_portfolio/static/js/main.c70453fb.js",
+    "static/media/bahadur.JPG": "/react_portfolio/static/media/bahadur.dc86f428d149587ae632.JPG",
+    "static/media/covid.png": "/react_portfolio/static/media/covid.534a988b56965da03e74.png",
+    "static/media/TV.png": "/react_portfolio/static/media/TV.962e4ed2e4a0ddc7d689.png",
+    "static/media/leaderboard.png": "/react_portfolio/static/media/leaderboard.914a4b0e7be83ee96088.png",
+    "static/media/angellist.svg": "/react_portfolio/static/media/angellist.26c06d241f4740c6e339249801375e4c.svg",
+    "static/media/backend.svg": "/react_portfolio/static/media/backend.834c12df131899ed79a1f71ac0a3e547.svg",
+    "static/media/github.svg": "/react_portfolio/static/media/github.3bed80c501037e237271a4bbf93fe096.svg",
+    "static/media/frontend.svg": "/react_portfolio/static/media/frontend.f5135cc50057975f163a1ca3f2e26a24.svg",
+    "index.html": "/react_portfolio/index.html",
+    "static/media/linkedin.svg": "/react_portfolio/static/media/linkedin.85228de57cd890171faaaa9cd7e4c669.svg",
+    "static/media/twitter.svg": "/react_portfolio/static/media/twitter.b2517aee506b17d6cbc536423e59f59d.svg",
+    "static/media/menu.svg": "/react_portfolio/static/media/menu.a2547a93d691f5f75b5b14ee79fc4305.svg",
+    "static/media/close.svg": "/react_portfolio/static/media/close.283fdc9336ca255e4bf2742a0735d220.svg",
+    "main.d086b027.css.map": "/react_portfolio/static/css/main.d086b027.css.map",
+    "main.c70453fb.js.map": "/react_portfolio/static/js/main.c70453fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d086b027.css",
+    "static/js/main.c70453fb.js"
+  ]
+}
