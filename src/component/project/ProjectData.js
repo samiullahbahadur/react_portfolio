@@ -18,7 +18,7 @@ export const projects = [
     title: "Covid-tracker",
     img: covid,
     projectLink: "https://github.com/samiullahbahadur/Covid-tracker",
-    liveLink: "https://cvdotracker.herokuapp.com/",
+    liveLink: "https://bahadur-covidtracker.netlify.app/",
   },
   {
     id: 2,
