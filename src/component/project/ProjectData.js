@@ -26,7 +26,7 @@ export const projects = [
     title: "LeaderBoard",
     img: leaderboard,
     projectLink: "https://github.com/samiullahbahadur/LeaderBoard",
-    liveLink: "https://dev--amazing-semifreddo-98cee0.netlify.app/",
+    liveLink: "https://bahadur-leaderboard.netlify.app/",
   },
   {
     id: 3,
