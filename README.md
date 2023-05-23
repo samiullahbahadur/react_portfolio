@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-- [Bahadur-Portfolio](https://samiullahbahadur.github.io/Portfolio/).
+- [Bahadur-Portfolio](https://bahadurportfolio.netlify.app/).
 
 👤 **Samiullah Bahadur**
 
